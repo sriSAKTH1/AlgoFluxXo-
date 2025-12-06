@@ -1,0 +1,7 @@
+{
+  "name": "DSA Master - AI Powered Learning",
+  "description": "Interactive Data Structures and Algorithms learning platform featuring real-time visualization, Gemini-powered conversational tutoring, deep thinking mode for complex problems, and voice interaction.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
