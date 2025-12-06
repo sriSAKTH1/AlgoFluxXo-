@@ -4,3 +4,5 @@
    `npm install`
 2. Run the app:
    `npm run dev`
+
+view app :https://algofluxxo.netlify.app/
